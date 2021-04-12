@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reading the Holy Land</title>
-    <link>/</link>
-    <description>Recent content on Reading the Holy Land</description>
+    <title>Abouts on Reading the Holy Land</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on Reading the Holy Land</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Apr 2021 10:59:56 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
