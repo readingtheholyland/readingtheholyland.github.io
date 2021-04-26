@@ -3,23 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/blog/</loc>
     <lastmod>2021-04-12T10:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2021-04-12T10:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/</loc>
+    <lastmod>2021-04-12T10:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
-    <lastmod>2021-04-12T10:59:56+01:00</lastmod>
+    <loc>/outputs/conferences/</loc>
   </url>
   
   <url>
-    <loc>/about/members/</loc>
-    <lastmod>2021-04-12T10:59:56+01:00</lastmod>
+    <loc>/outputs/datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>/outputs/presentations/</loc>
+  </url>
+  
+  <url>
+    <loc>/outputs/publications/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/outputs/</loc>
   </url>
   
   <url>
