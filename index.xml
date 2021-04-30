@@ -6,17 +6,14 @@
     <description>Recent content on Reading the Holy Land</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 30 Apr 2021 10:48:48 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>/blog/</link>
-      <pubDate>Mon, 12 Apr 2021 10:59:56 +0100</pubDate>
+      <title>Welcome Post</title>
+      <link>/blog/welcome-post/</link>
+      <pubDate>Fri, 30 Apr 2021 10:48:48 +0100</pubDate>
       
-      <guid>/blog/</guid>
-      <description>Coming soon</description>
+      <guid>/blog/welcome-post/</guid>
+      <description>Hello, this is the first post of the blog of the Reading the Holy Land Hello this is me trying to write something&amp;hellip;</description>
     </item>
     
     <item>
