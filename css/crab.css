@@ -96,7 +96,7 @@ hr {
 }
 
 #content {
-  margin-top: 2em;
+  margin-top: 1em;
 }
 
 #article {
@@ -155,7 +155,7 @@ span.upper {
 img {
   max-width: 100%;
 }
- 
+
 img.right {
   float: right;
   margin: 0 0 1em 1em;
